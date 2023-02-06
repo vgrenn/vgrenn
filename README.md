@@ -1,4 +1,4 @@
-# Hello! My name is Victoria!
+# Hello My name is Victoria!
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vgrenn&show_icons=true&theme=radical" />
 
